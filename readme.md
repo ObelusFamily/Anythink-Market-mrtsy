@@ -10,11 +10,11 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 
 ## First setup
 
-**[TODO 05/01/2018 @vanessa-cooper]:** 
+**[TODO 05/01/2018 @vanessa-cooper]:**
 
 Instruction:
 
-Install Docker 
+Install Docker
 
 Run docker-compose up from the project root folder
 
