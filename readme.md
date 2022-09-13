@@ -10,16 +10,14 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 
 ## First setup
 
-**[TODO 05/01/2018 @vanessa-cooper]:**
-
 Instruction:
 
-Install Docker
+1. Install Docker
 
-Run docker-compose up from the project root folder
+2. Run docker-compose up from the project root folder
 
-If It is working properly check by connecting ([This link](http://localhost:3000/api/ping))
+3. If It is working properly check by connecting ([This link](http://localhost:3000/api/ping))
 
-To check the frontend and make sure it’s connected to the backend.
+4. To check the frontend and make sure it’s connected to the backend.
 
-If everything is working properly, you’ll be able to create a new user on ([This link](http://localhost:3001/register)).
+5. If everything is working properly, you’ll be able to create a new user on ([This link](http://localhost:3001/register)).
